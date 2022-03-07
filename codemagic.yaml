@@ -1,5 +1,5 @@
 workflows:
   hello-world:
-    name: Hello world workflow
+    name: Agendamento Projeto Crescer
     scripts:
-        - echo "Hello World!"
+        - echo "Agendamento Projeto Crescer"
